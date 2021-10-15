@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Leaf color",
+      "value": "Sakura"
+    },
+    {
+      "trait_type": "Tree",
+      "value": "Sakura"
+    }
+  ],
+  "description": "Beautiful Sakura",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZH6ShFhVPdX3wZpYcJT2YM7hpB56S4cP5nJa2F9rrXgq",
+  "name": "Sakura"
+}
